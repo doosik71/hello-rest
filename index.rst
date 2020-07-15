@@ -3,17 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hello-rest's documentation!
-======================================
+Hello RestructedText
+====================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: 목차
 
+   start.rst
+   primer.rst
+   syntax.rst
 
-
-Indices and tables
-==================
+부록
+====
 
 * :ref:`genindex`
 * :ref:`modindex`
